@@ -1,6 +1,4 @@
-# Title (replace with your title)
-
-REGEX FOR BEGINNERS 
+# REGEX FOR BEGINNERS 
 
 ## Summary
 
